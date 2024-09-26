@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=codestackr)](https://git.io/streak-stats)
 <figure><embed src="https://wakatime.com/share/@9e1c9f62-037e-4abc-9a9b-d0ec19ad44ec/e97fa70e-c3f1-4015-948c-ae4b5f8a582c.svg"></embed></figure>
 
 
