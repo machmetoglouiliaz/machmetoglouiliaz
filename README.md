@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on Seeking Morpheus, a Roguelike ARPG PC Game. Soon on Steam!
