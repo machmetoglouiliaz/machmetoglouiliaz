@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=codestackr)](https://git.io/streak-stats)
-<figure><embed src="https://wakatime.com/share/@9e1c9f62-037e-4abc-9a9b-d0ec19ad44ec/e97fa70e-c3f1-4015-948c-ae4b5f8a582c.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@9e1c9f62-037e-4abc-9a9b-d0ec19ad44ec/426af5e1-877a-4f64-be09-6f02bbd49c8c.svg"></embed></figure>
 
 
 - 🔭 I’m currently working on Seeking Morpheus, a Roguelike ARPG PC Game. Soon on Steam!
