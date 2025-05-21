@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Full Stack Project for my portfolio!
 - 🌱 I’m currently learning Java, Spring Boot, Angular, Docker.
-- 🌱🌱 In my free time I also practice on C++, Python, C# (.Net), Unreal Engine, Unity Game Engine!
+- 🌱🌱 On my free time I also practice on C++, Python, C# (.Net), Unreal Engine, Unity Game Engine!
 - 👯 I’m looking to collaborate on Full-Stack projects! If you need help on a project, just PM me!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: machmetoglouiliaz@gmail.com
