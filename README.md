@@ -5,5 +5,8 @@
 - 🌱🌱 On my free time I also practice on C++, Python, C# (.Net), Unreal Engine, Unity Game Engine!
 - 👯 I’m looking to collaborate on Full-Stack projects! If you need help on a project, just PM me!
 - 💬 Ask me about anything you want!
-- 📫 How to reach me: machmetoglouiliaz@gmail.com
+- 📫 How to reach me:
+  - E-mail: machmetoglouiliaz@gmail.com
+  - LinkedIn: [Mourat Achmet Oglou Iliaz](https://www.linkedin.com/in/maoi)
+  - Discord: [Webkd](https://discordapp.com/users/401261878124216320)
 - 😄 Pronouns: he/him
