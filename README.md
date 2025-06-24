@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=codestackr)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on a full-stack project for my portfolio!
 - 🌱 I’m currently learning Java, Spring Boot, Angular, AWS and Docker.
 - 🌱🌱 On my free time I also practice on C++, Python, C# (.Net), Unreal Engine, Unity Game Engine!
