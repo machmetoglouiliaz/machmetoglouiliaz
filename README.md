@@ -1,10 +1,54 @@
-- 🔭 I’m currently working on a full-stack project for my portfolio!
-- 🌱 I’m currently learning Java, Spring Boot, Angular, AWS and Docker.
-- 🌱🌱 On my free time I also practice on C++, Python, C# (.Net), Unreal Engine, Unity Game Engine!
-- 👯 I’m looking to collaborate on Full-Stack projects! If you need help on a project, just PM me!
-- 💬 Ask me about anything you want!
-- 📫 How to reach me:
-  - E-mail: machmetoglouiliaz@gmail.com
-  - LinkedIn: [Mourat Achmet Oglou Iliaz](https://www.linkedin.com/in/maoi)
-  - Discord: [Webkd](https://discordapp.com/users/401261878124216320)
-- 😄 Pronouns: he/him
+## 👋 Hi, I’m Mourat Achmet Oglou Iliaz
+
+I’m a **Java Full-Stack Developer** passionate about building robust, scalable web applications and cloud-based solutions.  
+- 🔭 **Currently working on:** A portfolio-ready full-stack project using **Spring Boot**, **Angular**, **MySQL**, and **Docker**.  
+- 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.  
+- 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine** — keeping my game development skills sharp.  
+- 👯 **Open to collaborating** on full-stack development, backend systems, and cloud deployments.
+
+![Visitors](https://komarev.com/ghpvc/?username=machmetoglouiliaz&style=flat-square&color=blue)
+
+---
+
+## 💼 What I offer  
+- Strong experience in **Java**, **Spring Boot**, **REST APIs**, **Angular**, and **SQL**.  
+- Knowledge of **Docker**, **AWS**, **Git**, **CI/CD**, and **modern DevOps practices**.  
+- Ability to design, build, and deploy secure, maintainable, and performant applications.  
+- Passion for clean code, scalability, and continuous learning.
+
+---
+
+## 🚀 Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=default)
+
+---
+
+## 📫 How to reach me  
+
+- **Email:** [machmetoglouiliaz@gmail.com](mailto:machmetoglouiliaz@gmail.com)  
+- **LinkedIn:** [Mourat Achmet Oglou Iliaz](https://www.linkedin.com/in/maoi)  
+- **Discord:** [Webkd](https://discordapp.com/users/401261878124216320)
+
+---
+
+## ⚡ Keywords for recruiters  
+
+Java | Spring Boot | Angular | REST API | MySQL | Docker | AWS | Git | CI/CD | Full Stack Developer | Cloud | Backend Developer | Frontend Developer | Game Developer | Unity | Unreal Engine | Microservices | Remote Developer | Freelance Developer
