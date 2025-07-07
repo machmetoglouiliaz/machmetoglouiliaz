@@ -32,14 +32,6 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&exclude_repo=elementro-business-wordpress-site&layout=compact&theme=dark)
-
----
-
-## 📈 GitHub Stats  
-
-![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=dark)
-
 ---
 
 ## 📫 How to reach me  
@@ -47,6 +39,14 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 - **Email:** [machmetoglouiliaz@gmail.com](mailto:machmetoglouiliaz@gmail.com)  
 - **LinkedIn:** [Mourat Achmet Oglou Iliaz](https://www.linkedin.com/in/maoi)  
 - **Discord:** [Webkd](https://discordapp.com/users/401261878124216320)
+
+---
+
+## 📈 GitHub Stats  
+
+![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&exclude_repo=elementro-business-wordpress-site&layout=compact&theme=dark)
 
 ---
 
