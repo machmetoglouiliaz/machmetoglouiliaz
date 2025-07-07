@@ -6,8 +6,8 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 - 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine** — keeping my game development skills sharp.  
 - 👯 **Open to collaborating** on full-stack development, backend systems, and cloud deployments.
 
-![Visitors](https://komarev.com/ghpvc/?username=machmetoglouiliaz&style=flat-square&color=blue)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&layout=compact)
 ---
 
 ## 💼 What I offer  
