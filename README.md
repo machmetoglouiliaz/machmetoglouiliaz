@@ -4,8 +4,15 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 - 🔭 **Currently working on:** A portfolio-ready full-stack project using **Spring Boot**, **Angular**, **MySQL**, and **Docker**.  
 - 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.  
 - 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine** — keeping my game development skills sharp.  
-- 👯 **Open to collaborating** on full-stack development, backend systems, and cloud deployments.
+- 💼 **Open to:** Remote or on-site full-stack / backend developer roles within the EU (no visa required) or worldwide with visa sponsorship.
 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:machmetoglouiliaz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/maoi)
+
+---
+
+## 🌟 Featured Projects  
+
+- [Full-Stack E-Commerce App](https://github.com/machmetoglouiliaz/full-stack-angular-udemy-ecommerce) — Angular + Spring Boot + MySQL + Stripe + Okta 
 
 ---
 
@@ -43,6 +50,8 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 ---
 
 ## 📈 GitHub Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=dark)
 
 ![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=dark)
 
