@@ -12,7 +12,8 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 
 ## 🌟 Featured Projects  
 
-- [Full-Stack E-Commerce App](https://github.com/machmetoglouiliaz/full-stack-angular-udemy-ecommerce) — Angular + Spring Boot + MySQL + Stripe + Okta 
+- [Full-Stack E-Commerce App](https://github.com/machmetoglouiliaz/full-stack-angular-udemy-ecommerce) — Angular + Spring Boot + MySQL + Stripe + Okta
+- [Rock-Paper-Scissors Simulator](https://github.com/machmetoglouiliaz/rock-paper-scissors-simulator) — Java console app simulating 100 rounds between bots, with multithreading, clean architecture (DDD), and 99% test coverage.
 
 ---
 
