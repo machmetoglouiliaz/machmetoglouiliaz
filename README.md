@@ -6,8 +6,7 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 - 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine** — keeping my game development skills sharp.  
 - 👯 **Open to collaborating** on full-stack development, backend systems, and cloud deployments.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&layout=compact)
+
 ---
 
 ## 💼 What I offer  
@@ -33,11 +32,13 @@ I’m a **Java Full-Stack Developer** passionate about building robust, scalable
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&exclude_repo=elementro-business-wordpress-site&layout=compact&theme=dark)
+
 ---
 
 ## 📈 GitHub Stats  
 
-![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=default)
+![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=dark)
 
 ---
 
