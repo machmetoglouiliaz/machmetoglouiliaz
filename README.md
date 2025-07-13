@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mourat Achmet Oglou Iliaz
-##Java Full-Stack Developer | Spring Boot, Angular & MySQL | Focused on Clean Code, Cloud, and Delivery 
+## Java Full-Stack Developer | Spring Boot, Angular & MySQL | Focused on Clean Code, Cloud, and Delivery 
 
 - 🔭 **Currently working on:** A portfolio-ready full-stack project using **Spring Boot**, **Angular**, **MySQL**, and **Docker**.  
 - 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.  
