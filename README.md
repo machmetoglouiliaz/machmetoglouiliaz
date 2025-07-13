@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Mourat Achmet Oglou Iliaz
-## Java Full-Stack Developer | Spring Boot, Angular & MySQL | Focused on Clean Code, Cloud, and Delivery 
+## Java Full-Stack Developer | Spring Boot, Angular & MySQL | Focused on Clean Code, Cloud, and Delivery
+I write code with purpose, clarity, and a strong cup of coffee.
 
 - 🔭 **Currently working on:** A portfolio-ready full-stack project using **Spring Boot**, **Angular**, **MySQL**, and **Docker**.  
 - 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.  
@@ -11,6 +12,7 @@
 ---
 
 ## 🌟 Featured Projects  
+Here are some of the projects I’ve built to demonstrate full-stack architecture, clean code, and cloud deployment principles.
 
 - [Full-Stack E-Commerce App](https://github.com/machmetoglouiliaz/full-stack-angular-udemy-ecommerce) — Angular + Spring Boot + MySQL + Stripe + Okta
 - [Rock-Paper-Scissors Simulator](https://github.com/machmetoglouiliaz/rock-paper-scissors-simulator) — Java console app simulating 100 rounds between bots, with multithreading, clean architecture (DDD), and 99% test coverage.
