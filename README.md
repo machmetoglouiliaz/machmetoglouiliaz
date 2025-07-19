@@ -60,6 +60,8 @@ Here are some of the projects I’ve built to demonstrate full-stack architectur
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machmetoglouiliaz&exclude_repo=elementro-business-wordpress-site&layout=compact&theme=dark)
 
+***Thanks for visiting! Feel free to explore my work, or reach out — I’m always open to collaboration and new opportunities.***
+
 ---
 
 ## ⚡ Keywords for recruiters  
