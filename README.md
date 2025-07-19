@@ -52,9 +52,7 @@ Here are some of the projects I’ve built to demonstrate full-stack architectur
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=machmetoglouiliaz&theme=dark)
+## 📈 GitHub Stats
 
 ![Mourat's GitHub stats](https://github-readme-stats.vercel.app/api?username=machmetoglouiliaz&show_icons=true&theme=dark)
 
