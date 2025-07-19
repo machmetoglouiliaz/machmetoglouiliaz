@@ -2,9 +2,9 @@
 ## Java Full-Stack Developer | Spring Boot, Angular & MySQL | Building Clean, Scalable, and Cloud-Ready Applications
 I write code with purpose, clarity, and a strong cup of coffee.
 
-- 🔭 **Currently working on:** Real-world projects using **Spring Boot**, **Angular** & **MySQL**, both professionally and through portfolio development..  
-- 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.  
-- 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine**, keeping my game development skills sharp.  
+- 🔭 **Currently working on:** Real-world projects using **Spring Boot**, **Angular** & **MySQL** through work and hobby projects.
+- 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.
+- 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine**, keeping my game development skills sharp.
 - 💼 **Open to:** New opportunities or collaborations, especially remote full stack / backend roles within the EU or with visa sponsorship.
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:machmetoglouiliaz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/maoi)
