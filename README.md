@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mourat Achmet Oglou Iliaz
-## Java Full-Stack Developer | Spring Boot, Angular & MySQL | Building Clean, Scalable, and Cloud-Ready Applications
+## Java Full-Stack Developer | Spring Boot, Angular & PostgreSQL | Building Clean, Scalable, and Cloud-Ready Applications
 I write code with purpose, clarity, and a strong cup of coffee.
 
-- 🔭 **Currently working on:** Real-world projects using **Spring Boot**, **Angular** & **MySQL** through work and hobby projects.
+- 🔭 **Currently working:** At Hilon informatics as Full stack developer **Spring Boot**, **Angular** & **PostgreSQL**.
 - 🌱 **Focused on learning:** Advanced **Java**, **Spring Boot**, **Angular**, **AWS**, **Docker**, and modern cloud-native development practices.
 - 🕹️ **Also practicing:** **C++**, **Python**, **C# (.NET)**, **Unreal Engine**, **Unity Engine**, keeping my game development skills sharp.
 - 💼 **Open to:** New opportunities or collaborations, especially remote full stack / backend roles within the EU or with visa sponsorship.
@@ -32,6 +32,7 @@ Here are some of the projects I’ve built to demonstrate full-stack architectur
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -64,4 +65,4 @@ Here are some of the projects I’ve built to demonstrate full-stack architectur
 
 ## ⚡ Keywords for recruiters  
 
-Java | Spring Boot | Angular | REST API | MySQL | Docker | AWS | Git | CI/CD | Full Stack Developer | Cloud | Backend Developer | Frontend Developer | Game Developer | Unity | Unreal Engine | Microservices | Remote Developer | Freelance Developer
+Java | Spring Boot | Angular | REST API | PostgreSQL | MySQL | Docker | AWS | Git | CI/CD | Full Stack Developer | Cloud | Backend Developer | Frontend Developer | Game Developer | Unity | Unreal Engine | Microservices | Remote Developer | Freelance Developer
